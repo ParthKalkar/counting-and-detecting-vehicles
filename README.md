@@ -6,8 +6,15 @@ We will be using openCV for image processing and HAAR Cascade which is used for 
 We can also create our own cutomized HAAR Cascade
 
 ## Scope
+As HAAR CASCADE is used for object detection we have a very vast scope for this project. It can be used for any type of object detection. We can also create our own custom HAAR CASCADE for specific objects.  
+
+With this kind of identification and localisation, object detection can be used to count objects in a scene and determine and track their precise locations, all while accurately labeling them.
 
 ## Technology
+1. Python
+2. OpenCV
+3. HAAR CASCADE
+4. Flask
 
 ## Steps
 1. Loading the image from the internet.
