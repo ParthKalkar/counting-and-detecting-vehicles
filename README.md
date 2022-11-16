@@ -48,6 +48,8 @@ https://user-images.githubusercontent.com/50231750/202221315-1ab97a51-62d7-4676-
 
 ## Output Video
 
+ 
+![video](result.avi)
 
 
 ## Conclusion
